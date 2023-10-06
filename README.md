@@ -102,15 +102,18 @@ Clone this repository to your desired folder using `bash terminal` or using desi
 
 ### Install
 
-Install dependencies of this project using `bash terminal` or using desired `IDE terminal`:
+- Install dependencies of this project using `bash terminal` or using desired `IDE terminal`.
+- The root folder is `ecommerce-model`, inside this root folder there is a `Client` and `Server` folders.
+- The dependencies are to be installed for root folder `ecommerce-model` along with `Client` and `Server` folders respectively.
+- Run the following commands in order to install the dependencies.
 
 ```sh
   - cd ecommerce-model/
   - npm install
-  - cd ecommerce-model/Client
+  - cd Client/
   - npm install
   - cd ..
-  - cd ecommerce-model/Server
+  - cd Server/
   - npm install
   - cd ..
   - npm start 
