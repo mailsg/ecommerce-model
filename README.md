@@ -93,7 +93,7 @@ In order to run this project you need to have `NodeJS` installed in the system.
 
 ### Setup
 
-Clone this repository to your desired folder:
+Clone this repository to your desired folder using `bash terminal` or using desired `IDE terminal`:
 
 ```sh
   git clone https://github.com/mailsg/ecommerce-model.git
@@ -102,7 +102,7 @@ Clone this repository to your desired folder:
 
 ### Install
 
-Install dependencies of this project with:
+Install dependencies of this project using `bash terminal` or using desired `IDE terminal`:
 
 ```sh
   - cd ecommerce-model/
