@@ -77,7 +77,9 @@
 
 - **List of products displayed from a JSON file**
 - **API DATA by using GET/POST request**
+  - The Data is fetched from JSON file available at the location `ecommerce-model/Server/products.json`
 - **Purchase entry into a JSON file**
+  - The purchase entry is done in the JSON file available at the location `ecommerce-model/Server/purchase.json` 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
